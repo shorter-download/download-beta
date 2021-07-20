@@ -1,0 +1,18 @@
+    .title_page {
+      font-family: 'Otomanopee One', sans-serif;
+      font-size: 40px;
+
+    }
+
+    .footer {
+      position: fixed;
+      left: 0;
+
+      bottom: 0;
+      width: 100%;
+      color: black;
+      text-align: center;
+      font-family : fantasy;
+      font-weight: bold
+      vertical-align: middle;
+    }

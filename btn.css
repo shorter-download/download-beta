@@ -1,0 +1,14 @@
+    .btn {
+    background-color: Green;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    vertical-align: middle;
+    cursor: pointer;
+    font-size: 20px;
+    }
+
+    .btn:hover {
+    background-color: DarkGreen;
+    }
+
